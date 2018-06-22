@@ -185,7 +185,7 @@
 
 <a name="values"></a>
 
-## Valuse 取值
+## Value 取值
 
 <a name="color"></a>
 
